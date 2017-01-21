@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SuperEvilSpacePumpkin
+comment0.text=\r\n\ The\ evil\ space\ pumkins\ are\ evil\ and\ they\ are\ from\ space.\r\n\ \r\n\ These\ pumkins\ are\ evil\ -\ watch\ out\!\ oh,\ they\ live\ in\ space\ too.\r\n\r\n\ @author\ Steve\ Lamers\r\n\ @version\ 1.1\r\n
+comment1.params=upper\ lower
+comment1.target=void\ SuperEvilSpacePumpkin(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ SuperEvilSpacePumpkin\ wants\ to\ do.\ \r\n\ SuperEvilSpacePumpkins\ move\ up\ and\ down\ randomly\ between\ an\r\n\ upper\ and\ lower\ vertical\ limit.\r\n
+comment3.params=min\ max
+comment3.target=int\ randomWithRange(int,\ int)
+numComments=4
